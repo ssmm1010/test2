@@ -17,7 +17,7 @@ namespace ConsoleApp1
 
             int[] array = new int [2];
 
-            Console.WriteLine(array[2]);
+            Console.WriteLine(array[21]);
             Console.ReadLine();
         }
     }
